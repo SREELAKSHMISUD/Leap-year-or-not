@@ -1,4 +1,4 @@
-## Leap Year Checker
+# Leap Year Checker
 This program checks if a given year is a leap year or not.
 
 # Description
